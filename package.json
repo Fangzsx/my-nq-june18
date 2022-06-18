@@ -1,0 +1,18 @@
+{
+  "name": "june1",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "jasmine": "^4.2.0"
+  },
+  "scripts": {
+    "test": "jasmine spec/HttpRestAdapter.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
